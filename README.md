@@ -1,5 +1,18 @@
-# 💫 About Me:
-I am a Frontend Developer based in Yogyakarta, Indonesia, with a passion for building modern, scalable, and high-performance web applications. With a background in Informatics (GPA 3.46/4.00) and leadership experience as a former Department Head in the Student Executive Board, I combine technical expertise with strong coordination and communication skills.<br>🛠️ What I’m Up To<br>Current Work: I am currently working at Manufix, a SaaS company focused on ERP products. My responsibilities include developing MVPs with Laravel Livewire and building internal control applications and multi-tenant dashboards using Next.js, Express.js, and Laravel Inertia/Vue.js.<br>Side Project: I am currently developing an E-commerce Platform as a Frontend Engineer, leveraging the power of Next.js and TypeScript to create a seamless shopping experience.<br>Past Experience: Previously, I've built AI-driven healthcare dashboards at tbscreen.ai and various web solutions for clients ranging from social services to cleaning companies.<br>💻 Tech Stack & Tools<br>Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Redux/Zustand, Tanstack Query, and Laravel Livewire.<br>Backend & Database: Node.js (Express), PostgreSQL, and Supabase.<br>Workflow: I am highly proficient in GitHub for version control and experienced in working within Scrum environments to ensure efficient and iterative project delivery.<br><br>🌟 Soft Skills<br>Beyond coding, I bring experience in leadership, effective communication, and problem-solving, which I honed while managing teams and organizing large-scale student workshops.
+🚀 Hi there, I'm M. Farhan!
+I am a Frontend Developer based in Yogyakarta, Indonesia, with a passion for building modern, scalable, and high-performance web applications. With a background in Informatics (GPA 3.46/4.00) and leadership experience as a former Department Head in the Student Executive Board, I combine technical expertise with strong coordination and communication skills.
+
+🛠️ What I’m Up To
+Current Work: I am currently working at Manufix, a SaaS company focused on ERP products. My responsibilities include developing MVPs with Laravel Livewire and building internal control applications and multi-tenant dashboards using Next.js, Express.js, and Laravel Inertia/Vue.js.
+Side Project: I am currently developing an E-commerce Platform as a Frontend Engineer, leveraging the power of Next.js and TypeScript to create a seamless shopping experience.
+Past Experience: Previously, I've built AI-driven healthcare dashboards at tbscreen.ai and various web solutions for clients ranging from social services to cleaning companies.
+
+💻 Tech Stack & Tools
+Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Redux/Zustand, Tanstack Query, and Laravel Livewire.
+Backend & Database: Node.js (Express), PostgreSQL, and Supabase.
+Workflow: I am highly proficient in GitHub for version control and experienced in working within Scrum environments to ensure efficient and iterative project delivery.
+
+🌟 Soft Skills
+Beyond coding, I bring experience in leadership, effective communication, and problem-solving, which I honed while managing teams and organizing large-scale student workshops.
 
 
 ## 🌐 Socials:
