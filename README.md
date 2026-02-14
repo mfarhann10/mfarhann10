@@ -1,6 +1,6 @@
 # Hi there, I'm M. Farhan! 👋
 
-I am a **Frontend Developer** based in Yogyakarta, Indonesia. I specialize in building modern, scalable web applications with a focus on performance and clean code[cite: 3]. [cite_start]With a background in Informatics and experience in leadership, I bring a balance of technical expertise and effective communication to every project.
+I am a **Frontend Developer** based in Yogyakarta, Indonesia. I specialize in building modern, scalable web applications with a focus on performance and clean code. With a background in Informatics and experience in leadership, I bring a balance of technical expertise and effective communication to every project.
 
 ---
 
