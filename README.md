@@ -1,63 +1,18 @@
-👋 Hi, I'm M. Farhan
-Frontend Developer | Fullstack Enthusiast Saya adalah seorang pengembang perangkat lunak yang berbasis di Yogyakarta, Indonesia. Saya memiliki spesialisasi dalam membangun aplikasi web modern menggunakan React.js, Next.js, dan ekosistem TypeScript. Saya adalah seorang pembelajar cepat yang adaptif dan terbiasa bekerja dalam lingkungan kolaboratif.
-+4
-
-🚀 Sedang Saya Kerjakan
-Saat ini, saya sedang aktif mengembangkan Platform E-commerce (Shopee Clone) menggunakan:
-
-Tech Stack: Next.js & TypeScript.
-
-Metodologi: Saya terbiasa bekerja secara aktif menggunakan Scrum untuk memastikan pengembangan yang tangkas, terorganisir, dan tepat waktu.
-
-Version Control: Aktif mengelola repositori dan kolaborasi tim melalui GitHub.
-
-🛠️ Keahlian & Teknologi
-
-Frontend: HTML5, CSS3, Tailwind CSS, React.js (Hooks, Router, Query, Context API, Redux/Zustand), Next.js.
-+4
+# 💫 About Me:
+I am a Frontend Developer based in Yogyakarta, Indonesia, with a passion for building modern, scalable, and high-performance web applications. With a background in Informatics (GPA 3.46/4.00) and leadership experience as a former Department Head in the Student Executive Board, I combine technical expertise with strong coordination and communication skills.<br>🛠️ What I’m Up To<br>Current Work: I am currently working at Manufix, a SaaS company focused on ERP products. My responsibilities include developing MVPs with Laravel Livewire and building internal control applications and multi-tenant dashboards using Next.js, Express.js, and Laravel Inertia/Vue.js.<br>Side Project: I am currently developing an E-commerce Platform as a Frontend Engineer, leveraging the power of Next.js and TypeScript to create a seamless shopping experience.<br>Past Experience: Previously, I've built AI-driven healthcare dashboards at tbscreen.ai and various web solutions for clients ranging from social services to cleaning companies.<br>💻 Tech Stack & Tools<br>Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Redux/Zustand, Tanstack Query, and Laravel Livewire.<br>Backend & Database: Node.js (Express), PostgreSQL, and Supabase.<br>Workflow: I am highly proficient in GitHub for version control and experienced in working within Scrum environments to ensure efficient and iterative project delivery.<br><br>🌟 Soft Skills<br>Beyond coding, I bring experience in leadership, effective communication, and problem-solving, which I honed while managing teams and organizing large-scale student workshops.
 
 
-Backend & Database: Node.js, Express.js, PostgreSQL, Supabase, Laravel (Livewire & Inertia).
-+4
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-farhan-484683296/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mfarhann1009@gmail.com) 
 
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mfarhann10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mfarhann10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfarhann10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Tools & Methodologies: Git/GitHub, Scrum, Tanstack Query, Axios.
-+1
+---
+[![](https://visitcount.itsvg.in/api?id=mfarhann10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💼 Pengalaman Profesional
-
-Frontend Developer di Manufix Yogyakarta (Sep 2025 - Sekarang) 
-
-Mengembangkan produk SaaS untuk ERP menggunakan Next.js, Laravel Livewire, dan Express.js.
-
-
-Fullstack Developer di tbscreen.ai (Apr 2025 - Sekarang) 
-
-Membangun dashboard admin untuk platform AI deteksi kondisi paru-paru melalui X-ray.
-
-
-Freelance Frontend/Fullstack Developer 
-+1
-
-Berpengalaman membangun aplikasi quit smoking, landing page jasa kebersihan, hingga dashboard pengaduan masyarakat.
-+2
-
-🎓 Pendidikan & Organisasi
-
-S1 Informatika, Universitas Ahmad Dahlan (IPK 3.46/4.00).
-+1
-
-
-Mantan Ketua Departemen Minat dan Bakat, BEM FTI UAD.
-
-Pengalaman ini mengasah kemampuan Leadership, Teamwork, dan Problem Solving saya.
-
-📫 Mari Terkoneksi!
-
-LinkedIn: linkedin.com/in/m-farhan-484683296/ 
-
-
-Email: mfarhann1009@gmail.com 
-
-
-GitHub: github.com/mfarhann10
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
