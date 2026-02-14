@@ -1,18 +1,54 @@
-🚀 Hi there, I'm M. Farhan!
-I am a Frontend Developer based in Yogyakarta, Indonesia, with a passion for building modern, scalable, and high-performance web applications. With a background in Informatics (GPA 3.46/4.00) and leadership experience as a former Department Head in the Student Executive Board, I combine technical expertise with strong coordination and communication skills.
+# Hi there, I'm M. Farhan! 👋
 
-🛠️ What I’m Up To
-Current Work: I am currently working at Manufix, a SaaS company focused on ERP products. My responsibilities include developing MVPs with Laravel Livewire and building internal control applications and multi-tenant dashboards using Next.js, Express.js, and Laravel Inertia/Vue.js.
-Side Project: I am currently developing an E-commerce Platform as a Frontend Engineer, leveraging the power of Next.js and TypeScript to create a seamless shopping experience.
-Past Experience: Previously, I've built AI-driven healthcare dashboards at tbscreen.ai and various web solutions for clients ranging from social services to cleaning companies.
+[cite_start]I am a **Frontend Developer** based in Yogyakarta, Indonesia[cite: 2]. [cite_start]I specialize in building modern, scalable web applications with a focus on performance and clean code[cite: 3]. [cite_start]With a background in Informatics and experience in leadership, I bring a balance of technical expertise and effective communication to every project[cite: 4, 47].
 
-💻 Tech Stack & Tools
-Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Redux/Zustand, Tanstack Query, and Laravel Livewire.
-Backend & Database: Node.js (Express), PostgreSQL, and Supabase.
-Workflow: I am highly proficient in GitHub for version control and experienced in working within Scrum environments to ensure efficient and iterative project delivery.
+---
 
-🌟 Soft Skills
-Beyond coding, I bring experience in leadership, effective communication, and problem-solving, which I honed while managing teams and organizing large-scale student workshops.
+### 💼 Currently Working At
+[cite_start]**Manufix** — *Frontend Developer* (Sep 2025 – Present) [cite: 7, 8, 9]
+[cite_start]Manufix is a SaaS company specializing in ERP products[cite: 10]. My work includes:
+* [cite_start]Developing MVPs using **Laravel Livewire**[cite: 11].
+* [cite_start]Building internal control applications for customer registration using **Next.js, Express.js, and PostgreSQL**[cite: 12].
+* [cite_start]Creating high-conversion landing pages connected to internal systems via **Next.js**[cite: 13].
+* [cite_start]Developing multi-tenant admin dashboards using **Laravel Inertia with Vue.js**[cite: 14].
+
+### 🚀 Active Projects
+* **E-commerce Platform:** Currently architecting and developing a robust e-commerce platform as a Frontend Engineer using **Next.js and TypeScript**.
+* [cite_start]**tb-screen.ai:** Contributing to an advanced AI platform for X-ray analysis, building multi-role admin dashboards with **React.js and Supabase**[cite: 28, 30, 31, 32].
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend & Styling**
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Workflow**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Scrum](https://img.shields.io/badge/-Scrum-0096D6?style=flat-square&logo=scrumalliance&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfarhann10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfarhann10&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🎓 Education & Background
+* [cite_start]**Bachelor of Informatics** from Universitas Ahmad Dahlan (GPA: 3.46/4.00)[cite: 45, 47].
+* [cite_start]Former **Head of Interests and Talents Department** at Student Executive Board (BEM), where I led team coordination and event planning[cite: 49, 50].
+
+### 📬 Connect With Me
+* [cite_start]**LinkedIn:** [linkedin.com/in/m-farhan-484683296/](https://www.linkedin.com/in/m-farhan-484683296/) [cite: 2]
+* [cite_start]**Email:** [mfarhann1009@gmail.com](mailto:mfarhann1009@gmail.com) [cite: 2]
+
+---
+[cite_start]*“Fast learner, highly adaptable, and always ready to contribute to impactful projects.”* [cite: 5]
 
 
 ## 🌐 Socials:
