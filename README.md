@@ -1,20 +1,30 @@
 # Hi there, I'm M. Farhan! 👋
 
-I am a **Frontend Developer** based in Yogyakarta, Indonesia. I specialize in building modern, scalable web applications with a focus on performance and clean code. With a background in Informatics and experience in leadership, I bring a balance of technical expertise and effective communication to every project.
+### Software Engineer | Fullstack Developer specializing in SaaS & Billing Systems
+
+I am a **Fullstack Engineer** based in Yogyakarta, Indonesia, with a deep focus on building scalable **SaaS ERP** architectures and high-performance web applications. I bridge the gap between complex backend business logic (Ledger-based Billing, Event-driven systems) and pixel-perfect, responsive frontend experiences.
 
 ---
 
-### 💼 Currently Working At
-**Manufix** — *Frontend Developer* (Sep 2025 – Present)
-Manufix is a SaaS company specializing in ERP products. My work includes:
-* Developing MVPs using **Laravel Livewire**.
-* Building internal control applications for customer registration using **Next.js, Express.js, and PostgreSQL**.
-* Creating high-conversion landing pages connected to internal systems via **Next.js**.
-* Developing multi-tenant admin dashboards using **Laravel Inertia with Vue.js**.
+### 🛠️ Core Tech Stack
+- **Backend:** Laravel (Inertia/Livewire), Node.js (Express), PostgreSQL, MySQL.
+- **Frontend:** Vue.js, React.js, Next.js, TypeScript, Tailwind CSS.
+- **Tools & Infra:** RabbitMQ, Redis, Midtrans API, Docker, Supabase.
+
+---
+
+### 💼 Professional Experience
+
+**Manufix** — *Fullstack Engineer* (Sep 2025 – Present)
+Manufix is a SaaS company specializing in comprehensive ERP solutions. My key contributions include:
+* **Architected an Event-based Billing Engine**: Engineered a 3-layer system (Financial, Entitlement, and Versioning) to handle complex proration and subscription logic.
+* **Ledger-Based Payment Integration**: Refactored Midtrans gateway integration to ensure strict financial data integrity via automated reconciliation.
+* **Scalable Infrastructure**: Optimized asynchronous task handling for high-volume automated invoicing using **RabbitMQ** and **Laravel Schedulers**.
+* **Modern Admin Panels**: Developing multi-tenant dashboards using **Laravel Inertia & Vue.js** with a focus on reusable, modular component design.
 
 ### 🚀 Active Projects
 * **E-commerce Platform:** Currently architecting and developing a robust e-commerce platform as a Frontend Engineer using **Next.js and TypeScript**.
-* **tb-screen.ai:** Contributing to an advanced AI platform for X-ray analysis, building multi-role admin dashboards with **React.js and Supabase**.
+* **tb-screen.ai:** Developing a multi-role AI healthcare dashboard for X-ray analysis using **React.js & Supabase**.
 
 ---
 
