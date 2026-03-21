@@ -9,7 +9,7 @@ I am a **Fullstack Engineer** based in Yogyakarta, Indonesia, with a deep focus 
 ### 🛠️ Core Tech Stack
 - **Backend:** Laravel (Inertia/Livewire), Node.js (Express), PostgreSQL, MySQL.
 - **Frontend:** Vue.js, React.js, Next.js, TypeScript, Tailwind CSS.
-- **Tools & Infra:** RabbitMQ, Redis, Midtrans API, Docker, Supabase.
+- **Tools & Infra:** RabbitMQ, Midtrans API, Supabase.
 
 ---
 
