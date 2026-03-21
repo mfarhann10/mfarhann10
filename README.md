@@ -1,6 +1,6 @@
 # Hi there, I'm M. Farhan! 👋
 
-### Software Engineer | Fullstack Developer specializing in SaaS & Billing Systems
+### Software Engineer | Fullstack Developer 
 
 I am a **Fullstack Engineer** based in Yogyakarta, Indonesia, with a deep focus on building scalable **SaaS ERP** architectures and high-performance web applications. I bridge the gap between complex backend business logic (Ledger-based Billing, Event-driven systems) and pixel-perfect, responsive frontend experiences.
 
