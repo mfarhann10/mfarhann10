@@ -2,15 +2,15 @@
 
 ### Software Engineer | Fullstack & Mobile Developer 
 
-I am a **Software Engineer** based in South Tanggerang, Indonesia, currently building production mobile applications at **Gogomall** with React Native. I have a deep focus on architecting scalable **SaaS ERP** systems, high-performance web platforms, and real-time mobile experiences. I bridge the gap between complex backend business logic (Event-driven Billing, Ledger-based systems, RabbitMQ) and pixel-perfect, responsive frontend and mobile experiences.
+I am a Software Engineer based in South Tanggerang, Indonesia, currently building production mobile applications at Gogomall with React Native. I have a deep focus on architecting scalable SaaS ERP systems, high-performance web platforms, and real-time mobile experiences. I bridge the gap between complex backend business logic (Event-driven Billing, Ledger-based systems, RabbitMQ) and pixel-perfect, responsive frontend and mobile experiences.
 
 ---
 
 ### 🏢 Currently
 
 **Gogomall** — *React Native / Mobile Engineer* (Jun 2026 – Present)
-- Modernizing a production React Native application (Android & iOS) spanning commerce, feed-style content, real-time chat, payments, and customer service flows.
-- Engineering real-time mobile chat with Socket.IO, multi-provider payment journeys (QRIS, GoPay, Virtual Account), and deep-link/push notification routing.
+- Successfully launched a commercial React Native application to production on Android and iOS, delivering 22 feature modules from Figma design to store deployment.
+- Engineering real-time mobile chat with Socket.IO, multi-provider payment journeys (QRIS, GoPay, Virtual Account), deep-link/push notification routing, and a 3D product viewer.
 
 ---
 
