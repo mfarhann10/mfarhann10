@@ -2,29 +2,30 @@
 
 ### Software Engineer | Fullstack & Mobile Developer 
 
-I am a Software Engineer based in South Tanggerang, Indonesia, currently building production mobile applications at Gogomall with React Native. I have a deep focus on architecting scalable SaaS ERP systems, high-performance web platforms, and real-time mobile experiences. I bridge the gap between complex backend business logic (Event-driven Billing, Ledger-based systems, RabbitMQ) and pixel-perfect, responsive frontend and mobile experiences.
+I am a **Software Engineer** based in South Tangerang, Indonesia, currently building production mobile applications at **Gogomall** with React Native. I also build **SaaS billing**, web platforms, and real-time mobile experiences, working across backend business logic (prorated subscriptions, Midtrans payments, RabbitMQ entitlement sync) and responsive frontend and mobile experiences.
 
 ---
 
 ### 🏢 Currently
 
 **Gogomall** — *React Native / Mobile Engineer* (Jun 2026 – Present)
-- Successfully launched a commercial React Native application to production on Android and iOS, delivering 22 feature modules from Figma design to store deployment.
-- Engineering real-time mobile chat with Socket.IO, multi-provider payment journeys (QRIS, GoPay, Virtual Account), deep-link/push notification routing, and a 3D product viewer.
+- Successfully launched a commercial React Native application to production on Android and iOS, delivering 22 feature modules from Figma design to production release.
+- Built real-time mobile chat with Socket.IO, multi-provider payment journeys (QRIS, GoPay, Virtual Account), deep-link/push notification routing, and a 3D product viewer.
 
 ---
 
 ### 💼 Professional Experience
 
-**Manufix** — *Full-Stack Developer → Frontend Developer* (Sep 2025 – May 2026)
-- Architected a multi-tenant SaaS ERP system with an Event-based Billing Engine, Ledger-based payment reconciliation, and RabbitMQ asynchronous workflows.
-- Built the tenant admin dashboard (Vue.js / Inertia) and a high-performance Next.js landing page.
+**Manufix** — *Frontend Developer → Full-Stack Developer* (Sep 2025 – Present, freelance since Jun 2026)
+- Built the billing schema, backend proration logic, renewal invoicing, and Midtrans payment fixes for a multi-tenant SaaS ERP.
+- Fixed RabbitMQ entitlement sync between the billing panel and the ERP, along with production bugs across the ERP.
+- Built the first Next.js landing page and admin screens in Vue.js / Inertia.
 
 **Pestoka** — *Frontend Engineer* (Jan 2026 – Present)
-- Engineering a B2B2C wedding marketplace with 3 portals (Customer, Vendor, Admin) using Next.js 16, featuring real-time WebSocket chat, AI chatbot, and multi-step checkout.
+- Building a pre-launch B2B2C wedding marketplace with customer and vendor portals using Next.js 16, featuring real-time WebSocket chat, AI chatbot, and multi-step checkout.
 
 **Freelance** — *Full-Stack Developer* (Apr 2025 – Present)
-- Successfully delivered 6 custom applications to production across healthcare, e-commerce, and public services — including an AI-powered medical imaging platform (tbscreen.ai) and multiple admin dashboards.
+- Successfully delivered 5 custom applications to production across healthcare, public service, and local business domains — including an AI-powered medical imaging platform (tbscreen.ai) and multiple admin dashboards.
 
 ---
 
@@ -32,7 +33,7 @@ I am a Software Engineer based in South Tanggerang, Indonesia, currently buildin
 
 - **Mobile:** React Native, Socket.IO
 - **Frontend:** React.js, Next.js, Vue.js, TypeScript, Tailwind CSS, Zustand, TanStack Query
-- **Backend:** Laravel (Inertia/Livewire), Node.js, RabbitMQ, Supabase, PostgreSQL, MySQL
+- **Backend:** Laravel (Inertia/Livewire), Node.js (Express), RabbitMQ, Supabase, PostgreSQL, MySQL
 - **Auth & Security:** JWT (HttpOnly Cookies), RBAC, Edge Middleware
 - **Tools:** Vite, React Hook Form, Zod, Midtrans API, Python Flask
 
